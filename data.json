@@ -9,9 +9,9 @@
     { "english": "Curious" , "turkish": "meraklı" },
     { "english": "Desire" , "turkish": "arzu" },
     { "english": "Eager" , "turkish": "istekli" },
-    { "english": "Ambitious" , "turkish": "hırslı" },
-    { "english": "Patient" , "turkish": "hasta" },
-    { "english": "Debug" , "turkish": "hata ayıklama" },
-    { "english": "Interface" , "turkish": "arayüz" },
+    { "english": "Ambitious" , "turkish": "hırslı"},
+    { "english": "Patient" , "turkish": "hasta"},
+    { "english": "Debug" , "turkish": "hata ayıklama"},
+    { "english": "Interface" , "turkish": "arayüz"}
   ]
 }
