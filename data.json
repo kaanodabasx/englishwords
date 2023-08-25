@@ -12,6 +12,7 @@
     { "english": "Ambitious" , "turkish": "hırslı" , "sentences": "The ambitious project required a dedicated team and careful planning."},
     { "english": "Patient" , "turkish": "hasta" , "sentences": "The patient cat waited quietly for its owner to return home."},
     { "english": "Debug" , "turkish": "hata ayıklama" , "sentences": "The team collaborated to debug the software before the deadline, addressing any issues."},
-    { "english": "Interface" , "turkish": "arayüz" , "sentences": "The engineer is working on designing a new interface for the company's software."}
+    { "english": "Interface" , "turkish": "arayüz" , "sentences": "The engineer is working on designing a new interface for the company's software."},
+    { "english": "Resilient" , "turkish": "dayanıklı" }
   ]
 }
