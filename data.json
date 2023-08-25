@@ -1,17 +1,17 @@
 {
   "words": [
-    { "english": "Admire" , "turkish": "saygı duymak" },
-    { "english": "Confident" , "turkish": "kendinden emin" },
-    { "english": "Accomplish" , "turkish": "başarmak" },
-    { "english": "Diligent" , "turkish": "çalışkan" },
-    { "english": "Grateful" , "turkish": "minnetkar" },
-    { "english": "Inspired" , "turkish": "ilhamlı" },
-    { "english": "Curious" , "turkish": "meraklı" },
-    { "english": "Desire" , "turkish": "arzu" },
-    { "english": "Eager" , "turkish": "istekli" },
-    { "english": "Ambitious" , "turkish": "hırslı"},
-    { "english": "Patient" , "turkish": "hasta"},
-    { "english": "Debug" , "turkish": "hata ayıklama"},
-    { "english": "Interface" , "turkish": "arayüz"}
+    { "english": "Admire" , "turkish": "saygı duymak" , "sentences": "She looked up to her grandmother and admired her wisdom and kindness." },
+    { "english": "Confident" , "turkish": "kendinden emin" , "sentences": "Despite the challenges, he remained confident that he could achieve his goals." },
+    { "english": "Accomplish" , "turkish": "başarmak" , "sentences": "The team worked together seamlessly to accomplish the challenging project on time."},
+    { "english": "Diligent" , "turkish": "çalışkan" , "sentences": "The project required diligent planning and execution to meet the strict deadlines." },
+    { "english": "Grateful" , "turkish": "minnetkar" , "sentences": "She felt so grateful for the opportunity to travel and experience new cultures." },
+    { "english": "Inspired" , "turkish": "ilhamlı" , "sentences": "Her dedication to charity work is truly inspiring, motivating others to get involved."},
+    { "english": "Curious" , "turkish": "meraklı" , "sentences": "As a child, her curious nature led her to explore every corner of the garden." },
+    { "english": "Desire" , "turkish": "arzu" , "sentences": "The company's commitment to fulfilling customer desires has contributed to its success." },
+    { "english": "Eager" , "turkish": "istekli" , "sentences": "The students were eager to start the new semester and dive into their studies." },
+    { "english": "Ambitious" , "turkish": "hırslı" , "sentences": "The ambitious project required a dedicated team and careful planning."},
+    { "english": "Patient" , "turkish": "hasta" , "sentences": "The patient cat waited quietly for its owner to return home."},
+    { "english": "Debug" , "turkish": "hata ayıklama" , "sentences": "The team collaborated to debug the software before the deadline, addressing any issues."},
+    { "english": "Interface" , "turkish": "arayüz" , "sentences": "The engineer is working on designing a new interface for the company's software."}
   ]
 }
