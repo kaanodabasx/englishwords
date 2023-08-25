@@ -13,6 +13,13 @@
     { "english": "Patient" , "turkish": "hasta" , "sentences": "The patient cat waited quietly for its owner to return home."},
     { "english": "Debug" , "turkish": "hata ayıklama" , "sentences": "The team collaborated to debug the software before the deadline, addressing any issues."},
     { "english": "Interface" , "turkish": "arayüz" , "sentences": "The engineer is working on designing a new interface for the company's software."},
-    { "english": "Resilient" , "turkish": "dayanıklı" }
+    { "english": "Resilient" , "turkish": "dayanıklı" , "sentences": "Despite facing numerous challenges and setbacks, the community remained resilient, coming together to rebuild and thrive once again."},
+    { "english": "Crucial" , "turkish": "hayati" , "sentences": "Time management is crucial for balancing work and personal life effectively."},
+    { "english": "Engaging" , "turkish": "ilgi çekici" , "sentences": "The conference had engaging speakers who captivated the audience with their insightful presentations."},
+    { "english": "Stimulate" , "turkish": "uyarmak" , "sentences": "Reading thought-provoking books can stimulate your imagination and creativity."},
+    { "english": "Despite" , "turkish": "rağmen" , "sentences": "Despite the rain, we decided to go for a hike in the mountains"},
+    { "english": "Persistence" , "turkish": "azim" , "sentences": "Her dream of becoming a musician was realized through her persistence and constant practice."},
+    { "english": "Sustainability" , "turkish": "sürdürülebilirlik" , "sentences": "Many companies are adopting sustainable practices to reduce their carbon footprint and contribute to a healthier planet."},
+    { "english": "Harmony" , "turkish": "uyum" , "sentences": "The colors in the painting were chosen to create a sense of harmony and balance."},
   ]
 }
