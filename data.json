@@ -20,6 +20,16 @@
     { "english": "Despite" , "turkish": "rağmen" , "sentences": "Despite the rain, we decided to go for a hike in the mountains"},
     { "english": "Persistence" , "turkish": "azim" , "sentences": "Her dream of becoming a musician was realized through her persistence and constant practice."},
     { "english": "Sustainability" , "turkish": "sürdürülebilirlik" , "sentences": "Many companies are adopting sustainable practices to reduce their carbon footprint and contribute to a healthier planet."},
-    { "english": "Harmony" , "turkish": "uyum" , "sentences": "The colors in the painting were chosen to create a sense of harmony and balance."}
+    { "english": "Harmony" , "turkish": "uyum" , "sentences": "The colors in the painting were chosen to create a sense of harmony and balance."},
+    { "english": "Comprehension" , "turkish": "anlama" , "sentences": "Her comprehension of the novel's complex themes impressed her English teacher."},
+    { "english": "Afterward" , "turkish": "sonradan" , "sentences": "She finished her work, and afterward, she went for a walk to relax."},
+    { "english": "Engrossed" , "turkish": "kendini kaptırmış" , "sentences": "She was so engrossed in the book that she didn't hear the phone ringing."},
+    { "english": "Embarked" , "turkish": "yola çıkmak" , "sentences": "They embarked on a journey to explore ancient ruins in Greece."},
+    { "english": "Nestled" , "turkish": "yerleşmiş" , "sentences": "The cabin was nestled in a peaceful valley surrounded by tall trees."},
+    { "english": "Breathtaking" , "turkish": "nefes kesici" , "sentences": "The view from the mountaintop was absolutely breathtaking."},
+    { "english": "Spirit" , "turkish": "ruhsal durum" , "sentences": "Her positive spirit helped her overcome challenges and inspire others"},
+    { "english": "Pursue" , "turkish": "kovalamak" , "sentences": "He decided to pursue a career in medicine to help others."},
+    { "english": "Frustrated" , "turkish": "hayal kırıklığına uğramış" , "sentences": "After hours of trying to fix the computer, she felt frustrated."},
+    { "english": "Serenity" , "turkish": "huzur" , "sentences": "The sound of the ocean waves brought a sense of serenity to the beach"},
   ]
 }
