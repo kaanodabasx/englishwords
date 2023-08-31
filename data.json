@@ -31,5 +31,11 @@
     { "english": "Pursue" , "turkish": "kovalamak" , "sentences": "He decided to pursue a career in medicine to help others."},
     { "english": "Frustrated" , "turkish": "hayal kırıklığına uğramış" , "sentences": "After hours of trying to fix the computer, she felt frustrated."},
     { "english": "Serenity" , "turkish": "huzur" , "sentences": "The sound of the ocean waves brought a sense of serenity to the beach"},
+    { "english": "Mankind" , "turkish": "insanlık" , "sentences": "Mankind has made significant advancements in technology over the past century."},
+    { "english": "Obviously" , "turkish": "açıkcası" , "sentences": " She was late for the meeting, so obviously, she missed the presentation."},
+    { "english": "Humble" , "turkish": "mütevazi" , "sentences": " Despite his success, he remained a humble and down-to-earth person."},
+    { "english": "Inevitable" , "turkish": "kaçınılmaz" , "sentences": " Change is inevitable, and we must adapt to new circumstances."},
+    { "english": "Profound" , "turkish": "etkileyici" , "sentences": "The author's novel explored profound themes of love and loss that resonated with readers."},
+    { "english": "Lucrative" , "turkish": "kazançlı" , "sentences": "Investing in real estate can be quite lucrative if done wisely."}
   ]
 }
