@@ -36,6 +36,20 @@
     { "english": "Humble" , "turkish": "mütevazi" , "sentences": " Despite his success, he remained a humble and down-to-earth person."},
     { "english": "Inevitable" , "turkish": "kaçınılmaz" , "sentences": " Change is inevitable, and we must adapt to new circumstances."},
     { "english": "Profound" , "turkish": "etkileyici" , "sentences": "The author's novel explored profound themes of love and loss that resonated with readers."},
-    { "english": "Lucrative" , "turkish": "kazançlı" , "sentences": "Investing in real estate can be quite lucrative if done wisely."}
+    { "english": "Lucrative" , "turkish": "kazançlı" , "sentences": "Investing in real estate can be quite lucrative if done wisely."},
+    { "english": "Glacial" , "turkish": "buzul" , "sentences": "The glacial water of the mountain stream was so cold that it made my fingers numb."},
+    { "english": "Existential" , "turkish": "varoluşsal" , "sentences": "Many philosophers delve into the realm of existential questions about the meaning of life and human existence."},
+    { "english": "Detonation" , "turkish": "patlama" , "sentences": "The detonation of the explosives was so powerful that it could be heard from miles away."},
+    { "english": "Mishap" , "turkish": "talihsizlik" , "sentences": "The mishap at the construction site resulted in a delay in the project's timeline."},
+    { "english": "Besides" , "turkish": "ayrıca" , "sentences": "Besides studying for the exam, I also have to complete my essay tonight."},
+    { "english": "Perhaps" , "turkish": "belki" , "sentences": "Perhaps we can meet for coffee tomorrow if you're available."},
+    { "english": "Behave" , "turkish": "davranmak" , "sentences": "The children were asked to behave politely during the school assembly."},
+    { "english": "Scam" , "turkish": "dolandırıcılık" , "sentences": "Be cautious when receiving emails from unknown sources; they might be trying to scam you with phishing schemes."},
+    { "english": "Thrive" , "turkish": "gelişmek" , "sentences": "Despite facing many challenges, the small business managed to thrive and expand its operations."},
+    { "english": "Opportunity" , "turkish": "fırsat" , "sentences": "Don't miss this golden opportunity to showcase your talent and skills."},
+    { "english": "Suggestion" , "turkish": "öneri" , "sentences": "We welcome your suggestions for improving our products and services."},
+    { "english": "Survey" , "turkish": "anket" , "sentences": "We conducted a survey to gather feedback from our customers about their satisfaction with our services."},
+    { "english": "Jubilant" , "turkish": "sevinçli" , "sentences": "The team was jubilant after winning the championship, celebrating their victory with cheers and laughter."},
+    { "english": "Serendipity" , "turkish": "tesadüf" , "sentences": "Their encounter in the bookstore was pure serendipity, leading to a lifelong friendship."}
   ]
 }
