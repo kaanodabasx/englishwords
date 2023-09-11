@@ -50,6 +50,23 @@
     { "english": "Suggestion" , "turkish": "öneri" , "sentences": "We welcome your suggestions for improving our products and services."},
     { "english": "Survey" , "turkish": "anket" , "sentences": "We conducted a survey to gather feedback from our customers about their satisfaction with our services."},
     { "english": "Jubilant" , "turkish": "sevinçli" , "sentences": "The team was jubilant after winning the championship, celebrating their victory with cheers and laughter."},
-    { "english": "Serendipity" , "turkish": "tesadüf" , "sentences": "Their encounter in the bookstore was pure serendipity, leading to a lifelong friendship."}
+    { "english": "Serendipity" , "turkish": "tesadüf" , "sentences": "Their encounter in the bookstore was pure serendipity, leading to a lifelong friendship."},
+    { "english": "Deterrent" , "turkish": "caydırıcı" , "sentences": "The security cameras act as a deterrent to potential burglars."},
+    { "english": "Precaution" , "turkish": "önlem" , "sentences": "As a precaution against the storm, they boarded up their windows and stocked up on emergency supplies."},
+    { "english": "Withdrawal" , "turkish": "geri çekilme" , "sentences": "After his withdrawal from the competition, he decided to focus on his studies instead."},
+    { "english": "Hospitable" , "turkish": "misafirperver" , "sentences": "The people in that small town are known for their hospitable nature, always welcoming visitors with a warm smile."},
+    { "english": "Instantaneous" , "turkish": "anında" , "sentences": "With the click of a button, the camera captured an instantaneous snapshot of the stunning sunset"},
+    { "english": "Precisely" , "turkish": "kesinlikle" , "sentences": "She knew precisely what needed to be done to solve the complex problem."},
+    { "english": "Exponentially" , "turkish": "üssel bir şekilde katlanarak" , "sentences": "With the advancement of technology, computing power has grown exponentially over the past decade."},
+    { "english": "Starving" , "turkish": "açlık" , "sentences": "After a long hike, we were all starving, so we decided to have a big meal at the local restaurant."},
+    { "english": "Deteriorate" , "turkish": "kötüleşmek" , "sentences": "If you don't take care of your car, its condition will deteriorate over time."},
+    { "english": "Signify" , "turkish": "ifade etmek" , "sentences": "His actions signify his commitment to the cause."},
+    { "english": "Commitment" , "turkish": "bağlılık" , "sentences": "Their commitment to environmental conservation is evident through their sustainable practices."},
+    { "english": "Neglected" , "turkish": "ihmal edilmiş" , "sentences": "The old house had been neglected for years, and it was in need of extensive repairs."},
+    { "english": "Betrayed" , "turkish": "ihanet etmiş" , "sentences": "He felt deeply hurt when he realized that his friend had betrayed his trust."},
+    { "english": "Execute" , "turkish": "gerçekleştirmek" , "sentences": "The team will execute the project according to the plan they've developed."},
+    { "english": "Freckles" , "turkish": "çil" , "sentences": "Her face was covered in freckles from spending so much time in the sun."},
+    { "english": "Mellifluous" , "turkish": "sesi hoş" , "sentences": "Her mellifluous voice captivated the audience and brought tears to their eyes."},
+    { "english": "Eloquent" , "turkish": "etkileyici konuşan" , "sentences": "Her eloquent speech at the conference left a lasting impression on the audience."}
   ]
 }
