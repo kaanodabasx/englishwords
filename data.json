@@ -83,6 +83,6 @@
     { "english": "Remark" , "turkish": "yorum/düşünce" , "sentences": "His remark about the movie was insightful and added depth to our discussion."},
     { "english": "Carefully" , "turkish": "dikkatlice" , "sentences": "She handled the fragile glassware carefully to avoid any breakage."},
     { "english": "Poured" , "turkish": "dökmek" , "sentences": "He poured a glass of water for himself and placed it on the table."},
-    { "english": "Riddle" , "turkish": "bilmece" , "sentences": "Can you solve this riddle? "I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?""},
+    { "english": "Riddle" , "turkish": "bilmece" , "sentences": "Can you solve this riddle?"},
   ]
 }
