@@ -83,6 +83,24 @@
     { "english": "Remark" , "turkish": "yorum/düşünce" , "sentences": "His remark about the movie was insightful and added depth to our discussion."},
     { "english": "Carefully" , "turkish": "dikkatlice" , "sentences": "She handled the fragile glassware carefully to avoid any breakage."},
     { "english": "Poured" , "turkish": "dökmek" , "sentences": "He poured a glass of water for himself and placed it on the table."},
-    { "english": "Riddle" , "turkish": "bilmece" , "sentences": "Can you solve this riddle?"}
+    { "english": "Riddle" , "turkish": "bilmece" , "sentences": "Can you solve this riddle?"},
+    { "english": "Reducing" , "turkish": "azaltma" , "sentences": "Reducing sugar intake can lead to better overall health."},
+    { "english": "Crane" , "turkish": "vinç" , "sentences": "The construction site used a large crane to lift heavy materials."},
+    { "english": "Steadily" , "turkish": "düzenli bir şekilde" , "sentences": "Her savings grew steadily over the years as she invested wisely."},
+    { "english": "Shelter" , "turkish": "barınak" , "sentences": "During the storm, we sought shelter in a nearby building to stay safe."},
+    { "english": "Sought" , "turkish": "aranmak(arama işlemi)" , "sentences": "The police sought the missing person for days before finding them safe."},
+    { "english": "Entrance" , "turkish": "giriş yeri" , "sentences": "The entrance to the museum is on the left side of the building."},
+    { "english": "Arrive" , "turkish": "varış" , "sentences": "The train will arrive at the station in 10 minutes."},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""},
+    { "english": "" , "turkish": "" , "sentences": ""}
+    
   ]
 }
